@@ -1,0 +1,142 @@
+.container {
+    min-width: 1891px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.first {
+    background-image: url(img/head.jpg);
+    background-size: cover;
+    height: 805px;
+    width: 1891px;
+    display: flex;
+    border-radius: 30px;
+    outline: auto orange;
+}
+
+.p-first {
+    color: white;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second {
+    width: 1891px;
+    height: 1224px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.second-1 {
+    height: 560px;
+    width: 401px;
+    margin-left: 45px;
+    margin-top: 26px;
+    border-radius: 30px 30px;
+    outline: auto darkorange;
+}
+
+.second-img {
+    height: 230px;
+    width: 401px;
+    border-radius: 30px 30px 0px 0px;
+}
+
+.second-p {
+    font-size: 30px;
+    margin-left: 140px;
+}
+
+.second-p-p {
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.second-p-p-p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    margin-top: 75px;
+    margin-left: 160px;
+}
+
+.second-2 {
+    height: 560px;
+    width: 401px;
+    margin-left: 65px;
+    margin-top: 26px;
+    border-radius: 30px 30px;
+    outline: auto orange;
+}
+
+.second-3 {
+    height: 560px;
+    width: 401px;
+    margin-left: 65px;
+    margin-top: 26px;
+    border-radius: 30px 30px;
+    outline: auto orange;
+}
+
+.second-4 {
+    height: 560px;
+    width: 401px;
+    margin-left: 65px;
+    margin-top: 26px;
+    border-radius: 30px 30px;
+    outline: auto orange;
+}
+
+.second-5 {
+    height: 560px;
+    width: 401px;
+    margin-left: 45px;
+    margin-top: 26px;
+    border-radius: 30px 30px;
+    outline: auto orange;
+}
+
+.second-6 {
+    height: 560px;
+    width: 401px;
+    margin-left: 65px;
+    margin-top: 26px;
+    border-radius: 30px 30px;
+    outline: auto orange;
+}
+
+.second-7 {
+    height: 560px;
+    width: 401px;
+    margin-left: 65px;
+    margin-top: 26px;
+    border-radius: 30px 30px;
+    outline: auto orange;
+}
+
+.second-8 {
+    height: 560px;
+    width: 401px;
+    margin-left: 65px;
+    margin-top: 26px;
+    border-radius: 30px 30px;
+    outline: auto orange;
+}
+
+.third {
+    height: 192px;
+    width: 1891px;
+    background-color: orange;
+    border-radius: 30px;
+}
+
+.last {
+    margin-left: 328px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
